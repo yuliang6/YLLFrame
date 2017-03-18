@@ -1,0 +1,6 @@
+framework module YLLlib {
+  umbrella header "YLLlib.h"
+
+  export *
+  module * { export * }
+}
